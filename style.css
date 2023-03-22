@@ -64,7 +64,7 @@
 }
 
 .container-parallax1 {
-    background-image: url("../assets/1.png");
+    background-image: url("../assets/foto1.png");
     height: 100vh;
 }
 
@@ -106,7 +106,7 @@
 }
 
 .container-parallax2{
-    background-image: url("../assets/2.jpg");
+    background-image: url("../assets/foto2.jpg");
     height: 100vh;
 }
 .container-parallax2 h3 {
@@ -122,7 +122,7 @@
 }
 
 .container-parallax3{
-    background-image: url("../assets/4.jpg");
+    background-image: url("../assets/foto4.jpg");
     height: 100vh;
 }
 .container-parallax3 h3 {
@@ -139,7 +139,7 @@
 
 /*Localizacao*/
 .container-parallax4{
-    background-image: url("../assets/5.jpg");
+    background-image: url("../assets/foto5.jpg");
     height: 100vh;
 }
 .container-parallax4 h2{
@@ -185,7 +185,7 @@
 }
 
 .container-parallax5 {
-    background-image: url("../assets/6.jpg");
+    background-image: url("../assets/foto6.jpg");
     height: 80vh;
 }
 .container-parallax5 h2{
